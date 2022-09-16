@@ -17,6 +17,9 @@ by NLL and which we can generalize to all models.
 
 <img src="img/diagram.png" alt="diagram" height="500" />
 
+# Results
+![](img/results.png)
+
 # How To Run
 1. ``pip install -r requirements.txt``
 2. Create an experiment file with this shape inside ``src/experiments``:
@@ -61,5 +64,3 @@ experiment = {
 }
 ```
 3. ``python src/main.py``
-# Results
-![](img/results.png)
