@@ -1,4 +1,4 @@
-# IWAEs: Importance Weighted Autoencoders Implementation [paper](report.pdf)
+# [IWAEs](report.pdf): Importance Weighted Autoencoders Implementation
 The goal of this project is to re-implement the paper by Burda et. al ”Importance Weighted Autoencoders”.
 The theory behind regular Variational Autoencoders (VAE) and Importance Weighted Autoencoders (IWAE) is pre-
 sented in this research, which compares and contrasts them. This paper also presents the related work done in this
