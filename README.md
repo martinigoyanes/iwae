@@ -17,7 +17,7 @@ by NLL and which we can generalize to all models.
 
 <img src="img/diagram.png" alt="diagram" height="500" />
 
-# [Results](report.pdf)
+# [Results](report.pdf): Check out [Tensorboard.dev](https://tensorboard.dev/experiment/s7oq02hER7Cv1T4WMee0eA/)
 ![](img/results.png)
 
 # How To Run
