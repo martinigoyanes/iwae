@@ -17,7 +17,7 @@ by NLL and which we can generalize to all models.
 
 <img src="img/diagram.png" alt="diagram" height="500" />
 
-# Results
+# [Results](report.pdf)
 ![](img/results.png)
 
 # How To Run
